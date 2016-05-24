@@ -30,5 +30,6 @@
 (setq make-backup-files nil)
 (setq auto-save-default nil)
 
+(setq ring-bell-function 'ignore)
 (provide 'init-local)
 ;;; init-local.el ends here
