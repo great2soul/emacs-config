@@ -33,7 +33,7 @@ languages.
 The config should run on Emacs 23.3 or greater and is designed to
 degrade smoothly - see the Travis build - but note that Emacs 24 and
 above is required for an increasing number of key packages, including
-`magit`, `company` and `flycheck`, so to get full you should use the
+`magit`, `company` and `flycheck`, so to get full functionality you should use the
 latest Emacs version available to you.
 
 Some Windows users might need to follow
